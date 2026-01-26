@@ -11,6 +11,21 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Clemons9032/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
-[<img align="left" alt="Malcolm | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[linkedin]: www.linkedin.com/in/malcolm-clemons
- 
+
+<img width="148" height="148" alt="linkin image" src="https://github.com/user-attachments/assets/c0301069-feae-4e33-9ea7-e95431cc80b7" />
+
+
+
+
+
+
+
+www.linkedin.com/in/malcolm-clemons-280517387
+
+
+
+
+
+
+
+
