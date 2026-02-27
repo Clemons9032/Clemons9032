@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Clemons9032/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Clemons9032/SLA-Config-osTicket)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Clemons9032/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Clemons9032/Active-Directory)
   
 
 <h2>🤳Connect with me:</h2>
