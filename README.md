@@ -7,6 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Clemons9032/SLA-Config-osTicket)
 - <b>Microsoft Azure</b>
   - [Configuring & Creating Virtual Machines for Active Directory Setup](https://github.com/Clemons9032/Active-Directory)
+  - [Installing & Administering Users Within Active Directory]
   
 
 <h2>🤳Connect with me:</h2>
